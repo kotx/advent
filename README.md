@@ -1,5 +1,6 @@
 # Kot's Lazy Advent of Code Solutions
 
 ```sh
-python <year>/day<daynum>/index.py
+cd <year>/
+python ./day<daynum>/index.py
 ```
